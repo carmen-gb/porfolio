@@ -11321,6 +11321,11 @@ small, .text_small {font-size: 0.8rem;}
   color: #212529;
 }
 
+.logo {
+  max-height: 50%;
+}
+
+
 /*Código tomado de w3schools: https://www.w3schools.com/howto/howto_css_timeline.asp */
 /* The actual timeline (the vertical ruler) */
 .timeline {
