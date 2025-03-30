@@ -11264,9 +11264,10 @@ span[lang="el"] {
 
 div.polaroid{
   border: 1px solid white;
-  padding: 5px 5px;
+  padding: 0.5em 0.5em;
   width: 80%;
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin-bottom: 0.5em;
 }
 
 div.polaroid-container{
@@ -11274,6 +11275,12 @@ div.polaroid-container{
   padding-top: 5px;
 }
 
+div.timeline-content>h3 {
+  margin: 0.2rem;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 400;
+  line-height: 1.3;
+}
 
 @import url('https://fonts.googleapis.com/css?family=Raleway:400');
 
