@@ -4454,7 +4454,7 @@ textarea.form-control-lg {
   padding: .5rem 1rem;
   margin-bottom: 0;
   background-color: rgba(0, 0, 0, .03);
-  border-bottom: 1px solid rgba(0, 0, 0, .125)
+  border-bottom: 1px solid rgba(0, 0, 0, .125);
 }
 
 .card-header:first-child {
@@ -11325,6 +11325,17 @@ small, .text_small {font-size: 0.8rem;}
   max-height: 50%;
 }
 
+section#descripcion {
+  padding-top: 2rem;
+}
+
+a.collapsed {
+  text-align: left;
+}
+
+a.btn {
+  margin: auto;
+}
 
 /*Código tomado de w3schools: https://www.w3schools.com/howto/howto_css_timeline.asp */
 /* The actual timeline (the vertical ruler) */
