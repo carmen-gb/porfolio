@@ -11363,6 +11363,10 @@ a.collapsed {
   text-align: left;
 }
 
+#legal {
+  margin-top: 0.8em;
+}
+
 
 /*Código tomado de w3schools: https://www.w3schools.com/howto/howto_css_timeline.asp */
 /* The actual timeline (the vertical ruler) */
